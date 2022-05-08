@@ -3,6 +3,25 @@
   <channel>
     <title>Bob</title>
     <item>
+      <title>0.9.0</title>
+      <pubDate>周日, 08 5月 2022 13:54:15 +0800</pubDate>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ripperhe/Bob/releases/download/v0.9.0/Bob.zip" sparkle:version="23" sparkle:shortVersionString="0.9.0" length="14329059" type="application/octet-stream" sparkle:edSignature="jk5QaGT8/Uz8orIhlztzxPTpujkNAEYV1iLbWkcoJ/YXxvUr/wHEQ8N/DXtrCLmMIaD+IIOVQVNsdppEVpP8DA=="/>
+      <description><![CDATA[
+      <ul>
+      <li>全新的独立 OCR 功能</li>
+      <li>支持截图识别</li>
+      <li>支持访达选图识别</li>
+      <li>支持离线识别</li>
+      <li>支持连续识别</li>
+      <li>支持二维码识别</li>
+      <li>支持自动复制</li>
+      <li>支持智能分段</li>
+      <li>新增翻译功能取词模式设置</li>
+      </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>0.8.1</title>
       <pubDate>周二, 29 3月 2022 22:14:00 +0800</pubDate>
       <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
