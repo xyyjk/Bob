@@ -23,6 +23,7 @@
 | title | string | ✅ | 选项名称，用于展示。 |
 | defaultValue | string | - | 默认值。 |
 | menuValues | array | type 为 `menu` 时必须有 | 菜单选项数组，详情见 `menu object`。 |
+| desc | string | - | 用于详细描述这个选项的作用。 |
 
 ## menu object
 
