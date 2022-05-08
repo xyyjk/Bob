@@ -28,10 +28,7 @@ Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以
 
 ### 系统要求
 
-| 版本 | 系统要求 |
-| --- | --- |
-| 0.1.0 - 0.4.0 | macOS 10.12+ |
-| 0.5.0+ | macOS 10.13+ |
+macOS 10.13 及以上
 
 ### Homebrew Cask 安装
 
@@ -44,7 +41,7 @@ brew install --cask bob
 | 渠道 | 建议 | 下载 |
 | --- | --- | --- |
 | 从 [GitHub release](https://github.com/ripperhe/Bob/releases) 下载 | 国外从这里下载更快 | [点此下载 ⬇](https://github.com/ripperhe/Bob/releases/latest/download/Bob.zip) |
-| 从 [Gitee release](https://gitee.com/ripperhe/Bob/releases) 下载 | 国内从这里下载更快 | [点此下载 ⬇](https://gitee.com/ripperhe/Bob/attach_files/1011267/download/Bob.zip) |
+| ~~从 [Gitee release](https://gitee.com/ripperhe/Bob/releases) 下载~~ | ~~国内从这里下载更快~~ | ~~[点此下载 ⬇](https://gitee.com/ripperhe/Bob/attach_files/1011267/download/Bob.zip)~~ |
 
 下载完成之后，解压并拖拽到**应用程序**文件夹即可
 
@@ -52,10 +49,10 @@ brew install --cask bob
 
 | 功能 | 描述 | 预览 |
 | :---: | :---: | :---: |
-| 划词翻译 | 选中需要翻译的文本之后，按下划词翻译快捷键即可（默认 `⌥ + D`） | ![划词翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/划词翻译-句子.gif) |
-| 截图翻译 | 按下截图翻译快捷键（默认 `⌥ + S`），截取需要翻译的区域 | ![截图翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/截图翻译-句子.gif) |
-| 输入翻译| 按下输入翻译快捷键（默认 `⌥ + A`），输入需要翻译的文本，`Enter` 键翻译 | ![输入翻译-单词](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/输入翻译-单词.gif) |
-| PopClip 调用 | `0.3.0` 版本开始支持，选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](https://ripperhe.gitee.io/bob/#/general/integration/popclip) | ![插件翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/插件翻译-句子.gif) |
+| 划词翻译 | 选中需要翻译的文本之后，按下划词翻译快捷键即可（默认 `⌥ + D`） | ![划词翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_selection.gif) |
+| 截图翻译 | 按下截图翻译快捷键（默认 `⌥ + S`），截取需要翻译的区域 | ![截图翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_snip.gif) |
+| 输入翻译| 按下输入翻译快捷键（默认 `⌥ + A`），输入需要翻译的文本，`Enter` 键翻译 | ![输入翻译-单词](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_input.gif) |
+| PopClip 调用 | `0.3.0` 版本开始支持，选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](https://ripperhe.gitee.io/bob/#/general/integration/popclip) | ![插件翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_popclip.gif) |
 
 * 划词翻译在**可以选中文本，并且可以复制**的情况下使用
 * 截图翻译建议在无法选中或复制的情况下使用
