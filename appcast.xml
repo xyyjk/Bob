@@ -6,7 +6,7 @@
       <title>0.9.0</title>
       <pubDate>周日, 08 5月 2022 13:54:15 +0800</pubDate>
       <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ripperhe/Bob/releases/download/v0.9.0/Bob.zip" sparkle:version="23" sparkle:shortVersionString="0.9.0" length="14329059" type="application/octet-stream" sparkle:edSignature="jk5QaGT8/Uz8orIhlztzxPTpujkNAEYV1iLbWkcoJ/YXxvUr/wHEQ8N/DXtrCLmMIaD+IIOVQVNsdppEVpP8DA=="/>
+      <enclosure url="https://gitee.com/ripperhe/Bob/attach_files/1054285/download/Bob.zip" sparkle:version="23" sparkle:shortVersionString="0.9.0" length="14329059" type="application/octet-stream" sparkle:edSignature="jk5QaGT8/Uz8orIhlztzxPTpujkNAEYV1iLbWkcoJ/YXxvUr/wHEQ8N/DXtrCLmMIaD+IIOVQVNsdppEVpP8DA=="/>
       <description><![CDATA[
       <ul>
       <li>全新的独立 OCR 功能</li>
