@@ -12,7 +12,9 @@
 
 # Bob
 
-Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+Bob 是一款 macOS 平台 **翻译** 和 **OCR** 软件。
+
+翻译功能：
 
 - [x] 划词翻译
 - [x] 截图翻译
@@ -23,6 +25,16 @@ Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以
 - [x] 驼峰拆分、蛇形拆分
 - [x] AppleScript 调用
 - [x] PopClip 调用
+
+OCR 功能：
+
+- [x] 截图识别
+- [x] 访达选图识别
+- [x] 离线识别
+- [x] 连续识别
+- [x] 二维码识别
+- [x] 自动复制
+- [x] 智能分段
 
 ## 如何安装
 
@@ -47,16 +59,34 @@ brew install --cask bob
 
 ## 使用方法
 
-| 功能 | 描述 | 预览 |
+详细使用方法请直接查看文档 👉 [点此跳转文档](https://ripperhe.gitee.io/bob/)
+
+### 翻译功能
+
+| 方式 | 描述 | 预览 |
 | :---: | :---: | :---: |
 | 划词翻译 | 选中需要翻译的文本之后，按下划词翻译快捷键即可（默认 `⌥ + D`） | ![划词翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_selection.gif) |
 | 截图翻译 | 按下截图翻译快捷键（默认 `⌥ + S`），截取需要翻译的区域 | ![截图翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_snip.gif) |
 | 输入翻译| 按下输入翻译快捷键（默认 `⌥ + A`），输入需要翻译的文本，`Enter` 键翻译 | ![输入翻译-单词](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_input.gif) |
-| PopClip 调用 | `0.3.0` 版本开始支持，选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](https://ripperhe.gitee.io/bob/#/general/integration/popclip) | ![插件翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_popclip.gif) |
+| PopClip 调用 | 选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](/general/integration/popclip) | ![插件翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_popclip.gif) |
 
-* 划词翻译在**可以选中文本，并且可以复制**的情况下使用
-* 截图翻译建议在无法选中或复制的情况下使用
-* 输入翻译通常在以上方法获取的文本不准的情况下使用
+### OCR 功能
+
+**截图识别**
+
+* 按下「截图 OCR」快捷键（默认 `⇧ + ⌥ + S`）或者点击菜单栏 Bob 图标菜单中的「截图 OCR」
+* 选中屏幕上的对应的位置
+* 松手即可开始识别
+
+<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/snip_ocr.gif" alt="截图 OCR" width=660 />
+
+**访达选图识别**
+
+按下「访达选图 OCR」快捷键（没有设置默认快捷键，可去「 Bob 偏好设置-OCR-OCR 设置」添加）或者点击菜单栏 Bob 图标菜单中的「访达选图 OCR」。
+
+在弹出的访达窗口中选中对应的图片文件（可以一次性选中多张），点击右下角「开始识别」即可。
+
+<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/file_ocr.jpg" alt="访达选图 OCR" width=600 />
 
 ## 感谢
 
@@ -71,7 +101,7 @@ brew install --cask bob
 
 ## 最后
 
-目前本仓库主要用于部署使用教程和提供反馈渠道，**最后一个开源的版本为 `0.2.0`，可在 `archive_0.2.0` 分支查看。**
+目前本仓库主要用于部署使用教程和提供反馈渠道。
 
 有任何问题或建议请优先在 GitHub [提 issue](https://github.com/ripperhe/Bob/issues)，回复不一定及时，我有空闲时间一定会来处理的。
 
