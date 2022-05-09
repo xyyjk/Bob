@@ -61,6 +61,8 @@ brew install --cask bob
 
 详细使用方法请直接查看文档 👉 [点此跳转文档](https://ripperhe.gitee.io/bob/)
 
+> 文档可能有缓存，最好强制刷新下网页 （Chrome 快捷键是 `Command + Shift + R`）
+
 ### 翻译功能
 
 | 方式 | 描述 | 预览 |
