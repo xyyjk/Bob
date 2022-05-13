@@ -14,7 +14,7 @@
 https://www.icloud.com/shortcuts/18d2d9e756a5403c9ae654112e6c256d
 ```
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0512/install_bob_translate_1.jpg" alt="安装 Bob.Translate.v1 1" width=1000 />
+<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0513/install_bob_translate_1.jpg" alt="安装 Bob.Translate.v1 1" width=1000 />
 
 * 点击「获取捷径」
 * 点击「允许」
