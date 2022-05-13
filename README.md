@@ -82,6 +82,14 @@ brew install --cask bob
 
 <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/snip_ocr.gif" alt="截图 OCR" width=660 />
 
+**静默截图 OCR**
+
+* 按下「静默截图 OCR」快捷键（没有设置默认快捷键，可去「 Bob 偏好设置-OCR-OCR 设置」添加）或者点击菜单栏 Bob 图标菜单中的「静默截图 OCR」
+* 选中屏幕上的对应的位置
+* 松手即可开始识别
+
+「静默截图 OCR」不会自动显示 OCR 窗口，识别完成后直接将文本拷贝到剪切板。
+
 **访达选图识别**
 
 按下「访达选图 OCR」快捷键（没有设置默认快捷键，可去「 Bob 偏好设置-OCR-OCR 设置」添加）或者点击菜单栏 Bob 图标菜单中的「访达选图 OCR」。
