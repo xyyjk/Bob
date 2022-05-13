@@ -12,3 +12,4 @@
 * [翻译结果中能展示词典信息吗？](faq/translate-show-dict.md)
 * [如何将 Bob 安装到应用程序文件夹？](faq/move-to-applications.md)
 * [支持在 Parallels Desktop 中划词翻译吗？](faq/parallels-desktop-support)
+* [如何在 Bob 中使用 macOS 系统翻译？](faq/use-apple-translate.md)
