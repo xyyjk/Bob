@@ -113,6 +113,7 @@ brew install --cask bob
 ## 优秀软件推荐
 
 * [uPic: 一个强大的图床工具](https://github.com/gee1k/uPic)
+* [MWeb Pro: 专业的 Markdown 写作、记笔记、静态博客生成软件](https://zh.mweb.im/)
 
 ## 最后
 
