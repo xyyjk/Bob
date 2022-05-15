@@ -31,4 +31,8 @@ https://www.icloud.com/shortcuts/18d2d9e756a5403c9ae654112e6c256d
 
 接下来在「Bob 偏好设置 - 翻译 - 服务 - 文本翻译」点击下方 `+` 号，添加名为「翻译」的服务，即可开始使用。
 
+[👉 参考这篇文章](/general/advance/service.md)
 
+## 感谢
+
+感谢 @Liho 提供本方案的实现思路 👍
