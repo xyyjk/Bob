@@ -3,6 +3,17 @@
   <channel>
     <title>Bob</title>
     <item>
+      <title>0.10.1</title>
+      <pubDate>周日, 15 5月 2022 13:48:28 +0800</pubDate>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <enclosure url="https://gitee.com/ripperhe/Bob/attach_files/1061004/download/Bob.zip" sparkle:version="30" sparkle:shortVersionString="0.10.1" length="14422453" type="application/octet-stream" sparkle:edSignature="lWsENyvEB3K7BeOW1bdR68Dz05/Yf1x5CstBay9SERJJzfOPlRFe+dFtbLnQaVGVNlBc+6EtA/vGT4KgkoPnCA=="/>
+      <description><![CDATA[
+      <ul>
+      <li>优化在 macOS 12.3.1 调用系统翻译服务的逻辑</li>
+      </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>0.10.0</title>
       <pubDate>周五, 13 5月 2022 21:43:36 +0800</pubDate>
       <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
