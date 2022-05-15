@@ -110,6 +110,10 @@ brew install --cask bob
     * @鹿額：[截图/划词/输入都能查，快捷高效的 macOS 翻译工具: Bob](https://sspai.com/post/58249)
     * @Newlearnerの自留地：[Bob：一款 macOS 全局翻译软件，支持划词翻译和截图翻译](https://t.me/NewlearnerChannel/3329)
 
+## 优秀软件推荐
+
+* [uPic: 一个强大的图床工具](https://github.com/gee1k/uPic)
+
 ## 最后
 
 目前本仓库主要用于部署使用教程和提供反馈渠道。
