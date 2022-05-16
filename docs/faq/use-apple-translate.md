@@ -11,7 +11,7 @@
 此外还需要安装一个快捷指令（`Bob.Translate.v1`），请用 **Safari 浏览器** 打开下方链接。
 
 ```
-https://www.icloud.com/shortcuts/18d2d9e756a5403c9ae654112e6c256d
+https://www.icloud.com/shortcuts/d2f4232643044d529eef20e2a1e92819
 ```
 
 <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0513/install_bob_translate_1.jpg" alt="安装 Bob.Translate.v1 1" width=1000 />
@@ -35,4 +35,5 @@ https://www.icloud.com/shortcuts/18d2d9e756a5403c9ae654112e6c256d
 
 ## 感谢
 
-感谢 @Liho 提供本方案的实现思路 👍
+* 感谢 @Liho 提供本方案的实现思路 👍
+* 感谢 @Forever灬笨 简化快捷指令 👍 
