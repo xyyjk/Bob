@@ -35,39 +35,15 @@ version object 结构如下：
 shasum -a 256 <这里换成插件包文件路径>
 ```
 
-### 文件存放
+### 存放 appcast.json
 
 前面建议的是将插件仓库放到 GitHub，所以这里也以 GitHub 为例。
-
-#### 存放 appcast.json
 
 可将 `appcast.json` 文件放到插件仓库某个位置，假如放到根目录，即可通过以下链接获取 json 文件信息，将以下链接填写到 `info.json` 中的 `appcast` 字段即可。（将用户名和仓库名替换为自己的）
 
 ```
-https://raw.githubusercontent.com/用户名/插件仓库名/master/appcast.json
+https://github.com/用户名/插件仓库名/raw/main/appcast.json
 ```
-
-考虑到 GitHub 经常被墙，在国内请求可能会失败，建议使用 [jsDelivr](https://www.jsdelivr.com/?docs=gh) 加速，将上面的链接替换为如下链接
-
-```
-https://cdn.jsdelivr.net/gh/用户名/插件仓库名@master/appcast.json
-```
-
-使用 jsDelivr 会有缓存，所以修改 `appcast.json` 文件后，利用以上链接请求回来的数据没办法立即更新。每次修改 `appcast.json` 文件后，在浏览器请求一下如下链接，一般来说可以强制刷新缓存。
-
-```
-https://purge.jsdelivr.net/gh/用户名/插件仓库名@master/appcast.json
-```
-
-!> 注意不要恶意地频繁刷新，更新文件后刷新一次就好。不强制刷新其实也没啥问题，一般 24 小时内会自动刷新。
-
-#### 存放插件包
-
-插件包如果直接传到 `GitHub Releases` 将无法使用 jsDelivr（我没找到如何使用），所以还是建议放到仓库的某个位置，然后利用 jsDelivr 加速。
-
-所以在 `version object` 的 url 字段中，也请填入 jsDelivr 的资源链接，否则很可能会导致下载失败。
-
-建议将插件安装包的名字加上版本号，这样对应的 url 就不同，不需要去手动更新相应的 jsDelivr 缓存。
 
 ### 示例
 
