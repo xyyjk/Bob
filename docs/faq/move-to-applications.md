@@ -14,7 +14,7 @@
 
 如下图所示：
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0115/move-to-applications.jpg" alt="拖拽示意" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0115/move-to-applications.jpg" alt="拖拽示意" width=1000 />
 
 # 重要提醒
 

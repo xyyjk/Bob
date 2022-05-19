@@ -12,7 +12,7 @@ OCR 功能是 Bob 近期才新增的功能，独立于翻译功能之外，不�
 * 选中屏幕上的对应的位置
 * 松手即可开始识别
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/snip_ocr.gif" alt="截图 OCR" width=660 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/snip_ocr.gif" alt="截图 OCR" width=660 />
 
 **静默截图 OCR**
 
@@ -28,7 +28,7 @@ OCR 功能是 Bob 近期才新增的功能，独立于翻译功能之外，不�
 
 在弹出的访达窗口中选中对应的图片文件（可以一次性选中多张），点击右下角「开始识别」即可。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/file_ocr.jpg" alt="访达选图 OCR" width=600 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/file_ocr.jpg" alt="访达选图 OCR" width=600 />
 
 **离线识别**
 
@@ -58,7 +58,7 @@ Bob 支持自动将 OCR 的识别结果复制到剪切板，此功能是默认�
 
 OCR 窗口的主要组成部分如下：
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/ocr_window.jpg" alt="OCR 窗口" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/ocr_window.jpg" alt="OCR 窗口" width=1000 />
 
 OCR 窗口沿用了翻译窗口的方案，点击窗口以外的区域窗口会自动消失，如果不想让窗口消失可以点击左上角的按钮。
 
@@ -83,7 +83,7 @@ Bob 接入了多家 OCR 服务，你可以自由选择，详情请看[这篇文�
 
 申请好对应的秘钥之后，记得在这个页面添加服务。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/ocr_service.jpg" alt="OCR 服务" width=800 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/ocr_service.jpg" alt="OCR 服务" width=800 />
 
 !> OCR 功能暂时不支持插件，后续会加上。
 

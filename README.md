@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2019/1222/bob-logo.png" width=240 />
+  <img src="https://gh.wwang.de/ripperhe/oss/master/2019/1222/bob-logo.png" width=240 />
 </p>
 <p align="center">
 	<a href="https://github.com/ripperhe/Bob/releases/latest"><img src="https://img.shields.io/github/v/release/ripperhe/Bob?logo=github" alt="GitHub release" /></a>
@@ -68,10 +68,10 @@ brew install --cask bob
 
 | 方式 | 描述 | 预览 |
 | :---: | :---: | :---: |
-| 划词翻译 | 选中需要翻译的文本之后，按下划词翻译快捷键即可（默认 `⌥ + D`） | ![划词翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_selection.gif) |
-| 截图翻译 | 按下截图翻译快捷键（默认 `⌥ + S`），截取需要翻译的区域 | ![截图翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_snip.gif) |
-| 输入翻译| 按下输入翻译快捷键（默认 `⌥ + A`），输入需要翻译的文本，`Enter` 键翻译 | ![输入翻译-单词](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_input.gif) |
-| PopClip 调用 | 选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](/general/integration/popclip) | ![插件翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_popclip.gif) |
+| 划词翻译 | 选中需要翻译的文本之后，按下划词翻译快捷键即可（默认 `⌥ + D`） | ![划词翻译-句子](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_selection.gif) |
+| 截图翻译 | 按下截图翻译快捷键（默认 `⌥ + S`），截取需要翻译的区域 | ![截图翻译-句子](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_snip.gif) |
+| 输入翻译| 按下输入翻译快捷键（默认 `⌥ + A`），输入需要翻译的文本，`Enter` 键翻译 | ![输入翻译-单词](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_input.gif) |
+| PopClip 调用 | 选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](/general/integration/popclip) | ![插件翻译-句子](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_popclip.gif) |
 
 ### OCR 功能
 
@@ -81,7 +81,7 @@ brew install --cask bob
 * 选中屏幕上的对应的位置
 * 松手即可开始识别
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/snip_ocr.gif" alt="截图 OCR" width=660 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/snip_ocr.gif" alt="截图 OCR" width=660 />
 
 **静默截图 OCR**
 
@@ -97,7 +97,7 @@ brew install --cask bob
 
 在弹出的访达窗口中选中对应的图片文件（可以一次性选中多张），点击右下角「开始识别」即可。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/file_ocr.jpg" alt="访达选图 OCR" width=600 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/file_ocr.jpg" alt="访达选图 OCR" width=600 />
 
 ## 感谢
 

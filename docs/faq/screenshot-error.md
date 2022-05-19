@@ -12,7 +12,7 @@
 
 在启动台搜索终端，将其打开
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0825/Xnip2021-08-25_16-39-22.png" alt="Terminal" width=800 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0825/Xnip2021-08-25_16-39-22.png" alt="Terminal" width=800 />
 
 ## 2. 输入命令
 

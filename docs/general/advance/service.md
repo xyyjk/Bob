@@ -96,9 +96,9 @@ OCR 功能目前则只使用到了「文本识别」服务。
 5. 确保自己刚刚创建的服务的开关是<b><font color=red>开启状态</font></b>
 6. 点击页面右下角<b><font color=red>「保存」</font></b>按钮❗️❗️❗️
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/1127/service-use-1-v2.jpg" width="800" />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/1127/service-use-1-v2.jpg" width="800" />
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/1127/service-use-2-v2.jpg" alt="service-use-2" width="800" />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/1127/service-use-2-v2.jpg" alt="service-use-2" width="800" />
 
 这里提示几点：
 
@@ -111,6 +111,6 @@ OCR 功能目前则只使用到了「文本识别」服务。
 
 需要在 Bob 中打开「偏好设置-OCR-服务」，其他步骤跟上面类似，请自行研究下。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/ocr_service.jpg" alt="OCR 服务" width=800 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/ocr_service.jpg" alt="OCR 服务" width=800 />
 
 !> OCR 功能暂时不支持插件，后续会加上。

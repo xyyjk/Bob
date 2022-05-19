@@ -8,7 +8,7 @@
 
 以下为调整前后的对比：
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0426/baidu_ocr_news_free.png" alt="baidu_ocr_news_free.png" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0426/baidu_ocr_news_free.png" alt="baidu_ocr_news_free.png" width=1000 />
 
 !> **所以，如果想要持续免费使用百度智能云通用 OCR，请按尽快申请百度智能云账号，完成实名认证，并将秘钥填写到 Bob 中使用一下。**
 

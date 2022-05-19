@@ -12,4 +12,4 @@ Bob 的翻译功能目前主要针对段落翻译，不过如果翻译服务返�
 
 效果如下：
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0110/translate-dict.jpg" alt="词典预览" width=400 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0110/translate-dict.jpg" alt="词典预览" width=400 />

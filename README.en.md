@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2019/1222/bob-logo.png" width=240 />
+  <img src="https://gh.wwang.de/ripperhe/oss/master/2019/1222/bob-logo.png" width=240 />
 </p>
 <p align="center">
 	<a href="https://github.com/ripperhe/Bob/releases/latest"><img src="https://img.shields.io/github/v/release/ripperhe/Bob?logo=github" alt="GitHub release" /></a>
@@ -39,10 +39,10 @@ After the download is complete, unzip and drag app to your Applications folder.
 
 | Features | Description | Preview |
 | :---: | :---: | :---: |
-| Crossword translation | After selecting the text you want to translate, press the crossword translation shortcut (default: `⌥ + D`) | ![Crossword translation-sentence](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_selection.gif) |
-| Screenshot translation | Press the screenshot translation shortcut (default: `⌥ + S`), to intercept the area that needs to be translated | ![Screenshot Translation-Sentence](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_snip.gif) |
-| Enter translation | Press the Enter Translation Shortcut (default: `⌥ + A`), enter the text to be translated, `Enter` to translate | ![Enter translation-word](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_input.gif) |
-| PopClip translation | `0.3.0` version is supported. After selecting the text to be translated, click the [PopClip](https://pilotmoon.com/popclip/) plugin icon.  See [Bob-PopClip](https://ripperhe.gitee.io/bob/#/general/integration/popclip) for details | ![Plugin translation-sentence](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_popclip.gif) |
+| Crossword translation | After selecting the text you want to translate, press the crossword translation shortcut (default: `⌥ + D`) | ![Crossword translation-sentence](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_selection.gif) |
+| Screenshot translation | Press the screenshot translation shortcut (default: `⌥ + S`), to intercept the area that needs to be translated | ![Screenshot Translation-Sentence](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_snip.gif) |
+| Enter translation | Press the Enter Translation Shortcut (default: `⌥ + A`), enter the text to be translated, `Enter` to translate | ![Enter translation-word](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_input.gif) |
+| PopClip translation | `0.3.0` version is supported. After selecting the text to be translated, click the [PopClip](https://pilotmoon.com/popclip/) plugin icon.  See [Bob-PopClip](https://ripperhe.gitee.io/bob/#/general/integration/popclip) for details | ![Plugin translation-sentence](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_popclip.gif) |
 
 * Cross-word translation is used when **text can be selected and can be copied**
 * Screenshot translation is recommended if it cannot be selected or copied

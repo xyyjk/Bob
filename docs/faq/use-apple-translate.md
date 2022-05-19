@@ -14,12 +14,12 @@
 https://www.icloud.com/shortcuts/d2f4232643044d529eef20e2a1e92819
 ```
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0516/install_bob_translate_1.jpg" alt="安装 Bob.Translate.v1 1" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0516/install_bob_translate_1.jpg" alt="安装 Bob.Translate.v1 1" width=1000 />
 
 * 点击「获取捷径」
 * 点击「允许」
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0512/install_bob_translate_2.jpg" alt="安装 Bob.Translate.v1 2" width=400 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0512/install_bob_translate_2.jpg" alt="安装 Bob.Translate.v1 2" width=400 />
 
 * 点击「添加快捷指令」
 

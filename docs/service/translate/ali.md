@@ -13,25 +13,25 @@
 
 [点击此处跳转网页](https://www.aliyun.com/)
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_login.png" alt="ali_translate_login" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_login.png" alt="ali_translate_login" width=1000 />
 
 ## 2. 开通机器翻译
 
 进入 [「通用版翻译引擎」](https://www.aliyun.com/product/ai/base_alimt) 页面，点击「立即开通」
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_open_1.png" alt="ali_translate_open_1" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_open_1.png" alt="ali_translate_open_1" width=1000 />
 
 接下来会进入以下页面，点击「立即开通」
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_open_2.png" alt="ali_translate_open_2" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_open_2.png" alt="ali_translate_open_2" width=1000 />
 
 勾选「机器翻译服务协议」，点击「立即开通」
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_open_3.png" alt="ali_translate_open_3" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_open_3.png" alt="ali_translate_open_3" width=1000 />
 
 开通成功会有如下提示
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_open_4.png" alt="ali_translate_open_4" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_open_4.png" alt="ali_translate_open_4" width=1000 />
 
 ## 3. 获取秘钥
 
@@ -39,19 +39,19 @@
 
 登陆阿里云后，点击右上角头像菜单中的「AccessKey 管理」即可跳转秘钥管理页面
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_secret_1.png" alt="ali_translate_secret_1" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_secret_1.png" alt="ali_translate_secret_1" width=1000 />
 
 进入 [「秘钥管理」](https://ram.console.aliyun.com/manage/ak) 页面，点击「继续使用 AccessKey」
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_secret_2.png" alt="ali_translate_secret_2" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_secret_2.png" alt="ali_translate_secret_2" width=1000 />
 
 点击「创建 AccessKey」
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_secret_3.png" alt="ali_translate_secret_3" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_secret_3.png" alt="ali_translate_secret_3" width=1000 />
 
 下图所示即为所需的秘钥
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/ali_translate_secret_4.png" alt="ali_translate_secret_4" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/ali_translate_secret_4.png" alt="ali_translate_secret_4" width=1000 />
 
 ## 4. 填写秘钥
 

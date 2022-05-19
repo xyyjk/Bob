@@ -4,11 +4,11 @@
 
 第一次使用**划词翻译**的时候会弹出以下提示，点击 `打开系统偏好设置`，进入设置页面勾选上 Bob
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/辅助功能弹窗.png" alt="辅助功能弹窗" width=500 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2020/0117/辅助功能弹窗.png" alt="辅助功能弹窗" width=500 />
 
 设置页
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/辅助功能设置.png" alt="辅助功能设置" width=600 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2020/0117/辅助功能设置.png" alt="辅助功能设置" width=600 />
 
 常见问题：
 
@@ -22,11 +22,11 @@
 
 第一次使用**截图翻译**的时候会弹出以下提示，点击 `打开系统偏好设置`，进入设置页面勾选上 Bob
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/屏幕录制弹窗.png" alt="屏幕录制弹窗" width=500 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2020/0117/屏幕录制弹窗.png" alt="屏幕录制弹窗" width=500 />
 
 设置页
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0117/屏幕录制设置.png" alt="屏幕录制设置" width=600 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2020/0117/屏幕录制设置.png" alt="屏幕录制设置" width=600 />
 
 常见问题：
 
@@ -41,12 +41,12 @@
 
 1. 第一次在 Chrome 使用<strong>划词翻译</strong>的时候，应该会出现以下弹窗，请点击「好」（弹窗只会出现一次，除非重置自动化权限）
 
-    <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0316/自动化Chrome弹窗.png" alt="自动化Chrome弹窗" width=500 />
+    <img src="https://gh.wwang.de/ripperhe/oss/master/2020/0316/自动化Chrome弹窗.png" alt="自动化Chrome弹窗" width=500 />
 
 2. 处理弹窗之后，在 系统偏好设置 > 安全性与隐私 > 隐私 > 自动化 应该可看到以下选项，请确保其已经被勾上
 
-    <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0316/自动化Chrome设置.png" alt="自动化Chrome设置" width=600 />
+    <img src="https://gh.wwang.de/ripperhe/oss/master/2020/0316/自动化Chrome设置.png" alt="自动化Chrome设置" width=600 />
 
 3. 在 Chrome 菜单栏 > 视图 > 开发者 中开启 `允许 Apple 事件中的 JavaScript`
 
-    <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0316/chrome设置.png" alt="chrome设置" width=600 />
+    <img src="https://gh.wwang.de/ripperhe/oss/master/2020/0316/chrome设置.png" alt="chrome设置" width=600 />

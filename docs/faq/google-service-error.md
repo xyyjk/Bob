@@ -22,7 +22,7 @@ Google Cloud 服务无法使用常见的原因如下：
 
 部分用户是在 Google Cloud 绑定的银行卡到期了，导致无法使用，可以自查下。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0110/card-error.jpg" alt="银行卡到期" width=400 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0110/card-error.jpg" alt="银行卡到期" width=400 />
 
 ## 网络问题？
 

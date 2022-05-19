@@ -10,10 +10,10 @@
 
 | 方式 | 描述 | 预览 |
 | :---: | :---: | :---: |
-| 划词翻译 | 选中需要翻译的文本之后，按下划词翻译快捷键即可（默认 `⌥ + D`） | ![划词翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_selection.gif) |
-| 截图翻译 | 按下截图翻译快捷键（默认 `⌥ + S`），截取需要翻译的区域 | ![截图翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_snip.gif) |
-| 输入翻译| 按下输入翻译快捷键（默认 `⌥ + A`），输入需要翻译的文本，`Enter` 键翻译 | ![输入翻译-单词](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_input.gif) |
-| PopClip 调用 | 选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](/general/integration/popclip) | ![插件翻译-句子](https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0508/translate_popclip.gif) |
+| 划词翻译 | 选中需要翻译的文本之后，按下划词翻译快捷键即可（默认 `⌥ + D`） | ![划词翻译-句子](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_selection.gif) |
+| 截图翻译 | 按下截图翻译快捷键（默认 `⌥ + S`），截取需要翻译的区域 | ![截图翻译-句子](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_snip.gif) |
+| 输入翻译| 按下输入翻译快捷键（默认 `⌥ + A`），输入需要翻译的文本，`Enter` 键翻译 | ![输入翻译-单词](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_input.gif) |
+| PopClip 调用 | 选中需要翻译的文本之后，点击 [PopClip](https://pilotmoon.com/popclip/) 插件图标即可，详情见 [PopClip 调用](/general/integration/popclip) | ![插件翻译-句子](https://gh.wwang.de/ripperhe/oss/master/2022/0508/translate_popclip.gif) |
 
 * 划词翻译在**可以选中文本，并且可以复制**的情况下使用
 * 截图翻译建议在无法选中或复制的情况下使用
@@ -26,19 +26,19 @@
 
 Bob 不只是支持翻译，如果对应的翻译服务提供的信息够多，其实你也可以把 Bob 当做简单的查词工具使用。例如目前金山词霸和有道翻译有词典数据，效果如下：
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/translate_dict.jpg" alt="translate dict" width=400 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/translate_dict.jpg" alt="translate dict" width=400 />
 
 **翻译多开**
 
 如果你有对照多家翻译服务的结果的需求，你可以开启多个翻译服务，目前最多支持**同时开启 10 个翻译服务**。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/translate_more.jpg" alt="翻译多开" width=400 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/translate_more.jpg" alt="翻译多开" width=400 />
 
 ## 翻译窗口
 
 翻译窗口主要组成部分：
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/translate_window.jpg" alt="翻译窗口" width=690 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/translate_window.jpg" alt="翻译窗口" width=690 />
 
 小提示：
 
@@ -62,13 +62,13 @@ Bob 不只是支持翻译，如果对应的翻译服务提供的信息够多，�
 
 申请好秘钥之后，在这个页面添加服务。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/translate_service.jpg" alt="翻译服务" width=800 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/translate_service.jpg" alt="翻译服务" width=800 />
 
 ## 收藏和历史记录
 
 Bob 支持保存历史记录，对于较为重要的翻译结果你可以在翻译窗口按下 `⌘ + S` 键将其收藏，后续可以在收藏页面将其导出。
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2022/0507/translate_history.jpg" alt="历史记录" width=800 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2022/0507/translate_history.jpg" alt="历史记录" width=800 />
 
 ## 更多设置
 

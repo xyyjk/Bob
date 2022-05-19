@@ -24,7 +24,7 @@
 
 [点击此处跳转网页](https://niutrans.com/)
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/niu_translate_login.png" alt="niu_translate_login" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/niu_translate_login.png" alt="niu_translate_login" width=1000 />
 
 ## 2. 绑定微信并打卡
 
@@ -36,19 +36,19 @@
 
 从消息列表进入公众号“小牛翻译云平台”，点击左下角的“菜单”按钮切换到菜单模式
 
-<img src="https://cdn.jsdelivr.net/gh/wwk7225/oss@main/image/bob/202204292235553.webp" alt="202204292235553" width=300 />
+<img src="https://gh.wwang.de/wakewon/oss/main/image/bob/202204292235553.webp" alt="202204292235553" width=300 />
 
 点击“每日打卡”
 
-<img src="https://cdn.jsdelivr.net/gh/wwk7225/oss@main/image/bob/202204292243633.webp" alt="202204292243633" width=300 />
+<img src="https://gh.wwang.de/wakewon/oss/main/image/bob/202204292243633.webp" alt="202204292243633" width=300 />
 
 绑定之前注册好的小牛翻译云平台账号
 
-<img src="https://cdn.jsdelivr.net/gh/wwk7225/oss@main/image/bob/202204292244318.webp" alt="202204292244318" width=300 />
+<img src="https://gh.wwang.de/wakewon/oss/main/image/bob/202204292244318.webp" alt="202204292244318" width=300 />
 
 点击中间的“立即签到”按钮，完成一次签到
 
-<img src="https://cdn.jsdelivr.net/gh/wwk7225/oss@main/image/bob/202204292246408.webp" alt="202204292246408" width=300 />
+<img src="https://gh.wwang.de/wakewon/oss/main/image/bob/202204292246408.webp" alt="202204292246408" width=300 />
 
 ## 3. 获取秘钥
 
@@ -56,7 +56,7 @@
 
 进入 [「个人中心」](https://niutrans.com/cloud/account_info/info)，下图所示即为所需的秘钥
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2021/0305/niu_translate_secret.png" alt="niu_translate_secret" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2021/0305/niu_translate_secret.png" alt="niu_translate_secret" width=1000 />
 
 ## 4. 填写秘钥
 

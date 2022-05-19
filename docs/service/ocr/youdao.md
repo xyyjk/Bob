@@ -16,7 +16,7 @@
 
 [点击此处跳转网页](https://ai.youdao.com/)
 
-<img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0502/youdao_ocr_login.png" alt="youdao_ocr_login" width=1000 />
+<img src="https://gh.wwang.de/ripperhe/oss/master/2020/0502/youdao_ocr_login.png" alt="youdao_ocr_login" width=1000 />
 
 > 注册完成后，按照页面提示添加有道客服微信并发送账号信息，可再获得50元体验金。
 
@@ -24,11 +24,11 @@
 
 登录完成后，进入 [「业务指南-应用总览」](https://ai.youdao.com/console/#/app-overview)，点击「创建应用」
 
-<img src="https://cdn.jsdelivr.net/gh/wakewon/oss@main/image/bob/202205032017733.webp" alt="youdao_translate_app_1" width=1000 />
+<img src="https://gh.wwang.de/wakewon/oss/main/image/bob/202205032017733.webp" alt="youdao_translate_app_1" width=1000 />
 
 应用名称随意填写，服务需勾选「通用文字识别」，接入方式选「API」，应用类别可随意选择，其他信息不用填，然后点击「确定」
 
-<img src="https://cdn.jsdelivr.net/gh/wakewon/oss@main/image/bob/202205032209379.webp" alt="youdao_ocr_app_2" width=1000 />
+<img src="https://gh.wwang.de/wakewon/oss/main/image/bob/202205032209379.webp" alt="youdao_ocr_app_2" width=1000 />
 
 !> 请不要填写「服务器 IP」这一项设定，填写后很可能会导致你无法正常访问服务。
 
@@ -38,7 +38,7 @@
 
 进入 [「业务指南-业务总览」](https://ai.youdao.com/console/#/)，在「我的应用」中找到开通了「通用文字识别」服务的应用，点击「应用 ID」和「应用密钥」旁的复制按钮可分别复制所需的应用 ID 和应用密钥
 
-<img src="https://cdn.jsdelivr.net/gh/wakewon/oss@main/image/bob/202205032216257.webp" alt="youdao_ocr_secret_1" width=1000 />
+<img src="https://gh.wwang.de/wakewon/oss/main/image/bob/202205032216257.webp" alt="youdao_ocr_secret_1" width=1000 />
 
 ## 4. 填写秘钥
 
