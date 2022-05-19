@@ -3,6 +3,17 @@
   <channel>
     <title>Bob</title>
     <item>
+      <title>0.10.2</title>
+      <pubDate>周四, 19 5月 2022 18:48:44 +0800</pubDate>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <enclosure url="https://gitee.com/ripperhe/Bob/attach_files/1066760/download/Bob.zip" sparkle:version="32" sparkle:shortVersionString="0.10.2" length="14422467" type="application/octet-stream" sparkle:edSignature="pKfuTcQXQo4WPxWLVrx/bb5+WJQhu7yAOqdctLnx1P8zaGHLWO8My2H1h/43Fe+jdF5mb42dHKMTwpec/zstBw=="/>
+      <description><![CDATA[
+      <ul>
+      <li>修复翻译功能无法添加语音合成插件的问题</li>
+      </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>0.10.1</title>
       <pubDate>周日, 15 5月 2022 13:48:28 +0800</pubDate>
       <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>

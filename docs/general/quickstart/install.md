@@ -14,7 +14,7 @@ brew install --cask bob
 | 渠道 | 建议 | 下载 |
 | --- | --- | --- |
 | 从 [GitHub release](https://github.com/ripperhe/Bob/releases) 下载 | 国外从这里下载更快 | [点此下载 ⬇](https://github.com/ripperhe/Bob/releases/latest/download/Bob.zip) |
-| 从 [Gitee release](https://gitee.com/ripperhe/Bob/releases) 下载 | 国内从这里下载更快 | [点此下载 ⬇](https://gitee.com/ripperhe/Bob/attach_files/1061004/download/Bob.zip) |
+| 从 [Gitee release](https://gitee.com/ripperhe/Bob/releases) 下载 | 国内从这里下载更快 | [点此下载 ⬇](https://gitee.com/ripperhe/Bob/attach_files/1066760/download/Bob.zip) |
 
 !> 注意，整个安装流程请务必**使用系统自带的访达（Finder）进行拖拽文件**，不要使用 QSpace 等第三方文件管理工具。
 
